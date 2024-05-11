@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshal Raut
-- 👀 I’m interested in Machine Learning, Data Science and CFD
+- 👀 I’m interested in CFD and Machine Learning 
 - 📫 How to reach me hrshl212@gmail.com
 
 <!---
